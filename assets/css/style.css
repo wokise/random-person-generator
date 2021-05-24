@@ -1,0 +1,85 @@
+body,
+.profile {
+    background-image: url(../img/noisy-texture.png);
+    background-repeat: repeat;
+}
+
+.profile {
+    padding: 60px 0;
+}
+
+.profile-card {
+    width: 100%;
+    background-color: #ffffff;
+    border-radius: 0.45rem;
+}
+
+.card-head {
+    border-radius: 0.3rem 0.3rem 0 0;
+}
+
+.profile-photo {
+    position: relative;
+    width: 160px;
+    border-radius: 50%;
+}
+
+.card-body,
+.profile-item {
+    width: 100%;
+}
+
+.card-head {
+    padding: 1.5rem;
+}
+
+.card-body {
+    padding: 0 1.5rem 1.5rem 1.5rem;
+}
+
+.card-head {
+    width: 100%;
+    background-color: #2d3140;
+    color: white;
+}
+
+.profile-name {
+    font-size: calc(1.275rem + 0.3vw);
+}
+
+.profile-item {
+    background-color: #fafafb;
+    padding: 1rem 1rem;
+}
+
+.profile-item:not(:last-child) {
+    border-bottom: 0.0625rem solid #f1f1f1;
+}
+
+.profile-label {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #1c2540;
+    margin-bottom: 0.5rem;
+}
+
+.profile-value {
+    color: #424767;
+    font-size: 1rem;
+}
+
+.card-splitter {
+    padding: 10px 0;
+}
+
+.card-splitter,
+.profile-update {
+    width: 100%;
+    background-color: #f1f1f1;
+    font-size: 1.3rem;
+    text-transform: uppercase;
+}
+
+.profile-update {
+    border: none;
+}
