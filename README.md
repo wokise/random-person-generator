@@ -4,4 +4,4 @@
 
 # Скриншоты
 
-![App Screenshot](https://raw.githubusercontent.com/wokise4540/random_person_generator/main/def_screen.png)
+![App Screenshot](https://raw.githubusercontent.com/wokise4540/random_person_generator/blob/master/def_screen.png)
