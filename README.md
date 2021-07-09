@@ -1,7 +1,8 @@
-# Генератор случайных личностей
+# random-person-generator
 
-Локальный сервис на нативном Javascript, предназначенный для генерации случайных личностей.
+Сервис предназначен для создания несуществующей людей и генерации первичной информации о них.  
+Полученную информацию можно использовать для регистрации на различных сайтах, собирающих ПДн.
 
 # Скриншоты
 
-![App Screenshot](https://raw.githubusercontent.com/wokise4540/random_person_generator/master/def_screen.png)
+![screen](https://user-images.githubusercontent.com/67737797/125052739-7f62d380-e0ce-11eb-8548-2b7e6282ab49.png)
